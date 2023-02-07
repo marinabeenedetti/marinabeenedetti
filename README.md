@@ -5,6 +5,7 @@
 
 - Já fui programadora delphi 
 - Analista de sistemas pela UNOESC de Xanxerê-SC e pós graduada em desenvolvimento de aplicações mobile.
+- Me especializando em JavaScript e Node.js na RocketSeat
 - Teste de software
 - ⚡ Sei sobre Scrum, kanbam e dev com metodos ágeis ;)
 
