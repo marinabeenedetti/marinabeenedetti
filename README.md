@@ -12,8 +12,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marina-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marina-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Marina-cy" height="30" width="40" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg">
+  <img align="center" alt="Marina-notion" height="30" width="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629871571/team/5e4b440c0964a0f4eeffc6ce3f8b3b2869ef1fa52badc957844bf302ae91b103">
   <img align="center" alt="Marina-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Marina-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ 
 </div>
