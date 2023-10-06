@@ -17,7 +17,7 @@
   <img align="center" alt="Marina-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Marina-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Marina-postman" height="30" width="40" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg">
- <img align="center" alt="Marina-jira" height="30" width="40" src="https://wac-cdn.atlassian.com/dam/jcr:ab384028-e8a3-4dd1-8b45-6d564ef7936a/Jira%20Software_24.svg?cdnVersion=1253">
+ <img align="center" alt="Marina-jira" height="40" width="50" src="https://wac-cdn.atlassian.com/dam/jcr:ab384028-e8a3-4dd1-8b45-6d564ef7936a/Jira%20Software_24.svg?cdnVersion=1253">
   
  
 </div>
